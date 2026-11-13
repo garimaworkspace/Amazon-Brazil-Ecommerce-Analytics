@@ -23,7 +23,6 @@ The analysis uses the publicly available Olist Brazilian E-Commerce Dataset to e
 
 - SQL (MySQL)
 - Data Analysis
-- Data Visualisation
 
 ## Dataset
 
