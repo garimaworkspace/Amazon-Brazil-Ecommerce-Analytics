@@ -68,21 +68,6 @@ The project includes 14 SQL queries addressing business questions such as:
 - Window Functions
 - Date Functions
 - Filtering and Sorting
-
-## Repository Structure
-
-```text
-Amazon-Brazil-Ecommerce-Analytics/
-│
-├── README.md
-├── SQL/
-│   └── Amazon SQL Queries.sql
-├── Dataset/
-│   └── Dataset File
-├── Dashboard/
-│   └── Amazon Brazil SQL Dashboard.pdf
-└── Documentation/
-    └── amazon_data_dictionary.txt
 ```
 
 ## Project Outcome
