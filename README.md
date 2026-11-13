@@ -68,7 +68,6 @@ The project includes 14 SQL queries addressing business questions such as:
 - Window Functions
 - Date Functions
 - Filtering and Sorting
-```
 
 ## Project Outcome
 
